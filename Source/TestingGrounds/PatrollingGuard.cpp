@@ -2,7 +2,3 @@
 
 #include "PatrollingGuard.h"
 
-const TArray<AActor*>& APatrollingGuard::GetPatrolPoints()
-{
-	return PatrolPoints;
-}
